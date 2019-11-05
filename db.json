@@ -1,0 +1,34 @@
+{
+  "libros": [
+    {
+      "id": 1,
+      "nombre": "Aprendiendo redux hooks v7",
+      "precio": "30"
+    },
+    {
+      "id": 2,
+      "nombre": "Aprendiendo react y redux",
+      "precio": 40
+    },
+    {
+      "nombre": "REACT HOOKS",
+      "precio": "200",
+      "id": 4
+    },
+    {
+      "nombre": "REACT HOOKS",
+      "precio": "200",
+      "id": 5
+    },
+    {
+      "id": 7,
+      "nombre": "Node y react 1",
+      "precio": "200"
+    },
+    {
+      "nombre": "aprende react",
+      "precio": "40",
+      "id": 8
+    }
+  ]
+}
